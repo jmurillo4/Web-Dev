@@ -1,0 +1,16 @@
+body{
+    min-height: 800px;
+    border: 8px solid black; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box{
+    background-color:blue;
+    width: 200px;
+    height: 200px;
+    font-size: 40pt;
+    
+
+}
